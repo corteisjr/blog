@@ -1,4 +1,4 @@
-baseURL = 'https://eager-yonath-5379ae.netlify.app/'
+baseURL = 'https://casanerd.netlify.app/'
 languageCode = 'pt-br'
 title = 'Casa Nerd'
 theme = 'github-style'
