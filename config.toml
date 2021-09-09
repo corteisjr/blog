@@ -1,4 +1,19 @@
 baseURL = 'https://eager-yonath-5379ae.netlify.app/'
-languageCode = 'en-us'
+languageCode = 'pt-br'
 title = 'Casa Nerd'
 theme = 'github-style'
+
+[params]
+  author = "Corteis"
+  description = "Um estudante solitário"
+  github = "https://github.com/corteisjr"
+  linkedin = "https://www.linkedin.com/in/arcenio-corteisjr/"
+  instagram = "https://www.instagram.com/corteis_junior/"
+  email = "corteisjunior@gmail.com"
+  url = "http://corteisjunior.netlify.com/"
+  keywords = "blog, tutorial, designer, programador"
+  rss = false
+  lastmod = true
+  userStatusEmoji = "😀"
+  favicon = "/images/github.png"
+  location = "Moçambique"
