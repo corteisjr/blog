@@ -1,7 +1,7 @@
 ---
 title: "Gerenciar base dedos Parte 1"
 date: 2021-09-09T23:02:54+02:00
-draft: true
+draft: false
 ---
 
 
@@ -55,3 +55,4 @@ Chaves na base de dados seriam **campos de um registro**, campos estes que podem
 
 > [!IMPORTANTE]
 > Informação retirada da Wikipedia
+
