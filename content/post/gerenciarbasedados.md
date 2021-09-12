@@ -1,5 +1,5 @@
 ---
-title: "Gerenciar base dedos Parte 1"
+title: "Gerenciar base dados Parte 1"
 date: 2021-09-09T23:02:54+02:00
 draft: false
 ---
