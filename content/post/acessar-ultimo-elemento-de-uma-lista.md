@@ -57,3 +57,29 @@ saída
  
 ## Usando o método Pop()
 ---
+
+o método pop () é usado para remover um elemento na lista (por padrão, o último elemento), e retorna o valor desse elemento, por outra, ele pega o índice do elemento como parâmetro de entrada opcional e retorna o elemento no índice 
+especificado após excluí-lo da lista.
+Como usar este método:
+
+````python
+
+      a = [1,2, 5, 6, 7, 8, 9,"Casa nerd"]
+      print("Lista dada: ", a)
+      print("O último elemento da lista é: ", a.pop())
+````
+
+saída
+
+``` {r, results='hide'}
+    
+    Casa nerd
+```
+
+> [!Atenção]
+> Ao usar o método pop(), ele apaga definitavamente o item da lista.
+> 
+> Use este método somente quando quiseres eliminar o último elemento da lista.
+
+## Pegar o último elemento da lista usando fatiamento
+---
