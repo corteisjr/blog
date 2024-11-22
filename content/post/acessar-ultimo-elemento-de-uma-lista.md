@@ -30,7 +30,7 @@ certo, um jeito simples de pegar o ultímo elemento de uma lista seria:
 
 saída
 
-``` {r, results='hide'}
+``` r
     8
 ```
 
@@ -50,7 +50,7 @@ elemento da lista subtraindo o "tamanhaLista-1", veja a baixo.
 
 saída
 
-``` {r, results='hide'}
+``` r
     Lista dada: [1,2, 5, 6, 7, 8, 9,"Casa nerd"]
     O último elemento da lista é: Casa nerd
 ```
@@ -71,7 +71,7 @@ Como usar este método:
 
 saída
 
-``` {r, results='hide'}
+``` r
     Lista dada: [1,2, 5, 6, 7, 8, 9,"Casa nerd"]
     O último elemento da lista é: Casa nerd
 ```
@@ -101,7 +101,7 @@ Para acessar o último elemento de uma lista usando fitiamenento em python, pode
 
 saída
 
-``` {r, results='hide'}
+``` r
     Lista dada: [1,2, 5, 6, 7, 8, 9,"Casa nerd"]
     O último elemento da lista é: Casa nerd
 ```
@@ -126,7 +126,7 @@ Para acessar o último elemento de uma lista, podemos criar primeiro  um iterado
 
 saída
 
-``` {r, results='hide'}
+``` r
     Lista dada: [1,2, 5, 6, 7, 8, 9,"Casa nerd"]
     O último elemento da lista é: Casa nerd
 ```
@@ -150,7 +150,7 @@ Para acessar o último elemento da lista, podemos chamar o método itemgetter ()
 
 saída
 
-``` {r, results='hide'}
+``` r
     Lista dada: [1,2, 5, 6, 7, 8, 9,"Casa nerd"]
     O último elemento da lista é: Casa nerd
 ```
