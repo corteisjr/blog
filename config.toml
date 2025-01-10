@@ -1,4 +1,4 @@
-baseURL = 'https://casanerd.cyou/'
+baseURL = 'https://corteisblog.netlify.app/'
 languageCode = 'pt-br'
 title = 'Casa Nerd'
 theme = 'github-style'
